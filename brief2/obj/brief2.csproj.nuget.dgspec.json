@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrateur\\source\\repos\\brief2\\brief2\\brief2.csproj": {}
+    "C:\\Users\\Administrateur\\Desktop\\osa\\c_brief2\\brief2\\brief2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrateur\\source\\repos\\brief2\\brief2\\brief2.csproj": {
+    "C:\\Users\\Administrateur\\Desktop\\osa\\c_brief2\\brief2\\brief2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur\\source\\repos\\brief2\\brief2\\brief2.csproj",
+        "projectUniqueName": "C:\\Users\\Administrateur\\Desktop\\osa\\c_brief2\\brief2\\brief2.csproj",
         "projectName": "brief2",
-        "projectPath": "C:\\Users\\Administrateur\\source\\repos\\brief2\\brief2\\brief2.csproj",
+        "projectPath": "C:\\Users\\Administrateur\\Desktop\\osa\\c_brief2\\brief2\\brief2.csproj",
         "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur\\source\\repos\\brief2\\brief2\\obj\\",
+        "outputPath": "C:\\Users\\Administrateur\\Desktop\\osa\\c_brief2\\brief2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

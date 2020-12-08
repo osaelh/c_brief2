@@ -1,0 +1,13 @@
+C:\Users\Administrateur\source\repos\brief2\brief2\bin\Debug\netcoreapp3.1\brief2.exe
+C:\Users\Administrateur\source\repos\brief2\brief2\bin\Debug\netcoreapp3.1\brief2.deps.json
+C:\Users\Administrateur\source\repos\brief2\brief2\bin\Debug\netcoreapp3.1\brief2.runtimeconfig.json
+C:\Users\Administrateur\source\repos\brief2\brief2\bin\Debug\netcoreapp3.1\brief2.runtimeconfig.dev.json
+C:\Users\Administrateur\source\repos\brief2\brief2\bin\Debug\netcoreapp3.1\brief2.dll
+C:\Users\Administrateur\source\repos\brief2\brief2\bin\Debug\netcoreapp3.1\brief2.pdb
+C:\Users\Administrateur\source\repos\brief2\brief2\obj\Debug\netcoreapp3.1\brief2.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\brief2\brief2\obj\Debug\netcoreapp3.1\brief2.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\brief2\brief2\obj\Debug\netcoreapp3.1\brief2.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\brief2\brief2\obj\Debug\netcoreapp3.1\brief2.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\brief2\brief2\obj\Debug\netcoreapp3.1\brief2.dll
+C:\Users\Administrateur\source\repos\brief2\brief2\obj\Debug\netcoreapp3.1\brief2.pdb
+C:\Users\Administrateur\source\repos\brief2\brief2\obj\Debug\netcoreapp3.1\brief2.genruntimeconfig.cache
